@@ -45,6 +45,7 @@ git-lfs
 gnome-chess
 gnome-keyring
 gnome-terminal
+gnu-netcat
 gnuchess
 go
 gobject-introspection
@@ -62,7 +63,6 @@ gvfs-gphoto2
 gwenview
 haruna
 htop
-inkscape
 inotify-tools
 intltool
 jbig2dec
@@ -85,7 +85,6 @@ libappindicator-gtk3
 libimagequant
 libmupdf
 libreoffice-fresh
-libva-mesa-driver
 libva-utils
 linux
 linux-firmware
@@ -96,7 +95,6 @@ lua-lpeg
 make
 mate-terminal
 maven
-mesa-vdpau
 meson
 mpdecimal
 mpv
@@ -105,6 +103,7 @@ nano
 neofetch
 nfs-utils
 ninja
+nodejs
 noto-fonts-emoji
 ntfs-3g
 numactl
@@ -158,6 +157,7 @@ plymouth-kcm
 podofo
 postgis
 postgresql
+postgresql-libs
 postgresql-old-upgrade
 power-profiles-daemon
 powerdevil
@@ -176,6 +176,7 @@ python-markdown
 python-pillow
 python-pip
 python-pymupdf
+python-virtualenv
 python-xmltodict
 qbittorrent
 qgis
@@ -204,9 +205,9 @@ qt6-serialbus
 radeontop
 redis
 rhash
-rmlint
 rofi
 rsync
+ruby
 samba
 sassc
 screenfetch
@@ -215,9 +216,8 @@ sgml-common
 spectacle
 sublime-text
 sudo
+telegram-desktop
 terminus-font
-timescaledb
-timescaledb-tune
 tk
 tomcat9
 touchegg
@@ -298,3 +298,4 @@ xorg-xwud
 xterm
 zed
 zsh
+zsh-completions
